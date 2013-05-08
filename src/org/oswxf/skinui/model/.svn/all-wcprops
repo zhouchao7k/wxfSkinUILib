@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wxfreload/!svn/ver/194/trunk/wxfSkinUILib/src/org/oswxf/skinui/model
+END
+SimpleResObjectDefineModel.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/wxfreload/!svn/ver/194/trunk/wxfSkinUILib/src/org/oswxf/skinui/model/SimpleResObjectDefineModel.as
+END
+ViewBlockModel.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/wxfreload/!svn/ver/86/trunk/wxfSkinUILib/src/org/oswxf/skinui/model/ViewBlockModel.as
+END
+SkinUIModelLocator.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/wxfreload/!svn/ver/41/trunk/wxfSkinUILib/src/org/oswxf/skinui/model/SkinUIModelLocator.as
+END
+BundlerModel.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/wxfreload/!svn/ver/43/trunk/wxfSkinUILib/src/org/oswxf/skinui/model/BundlerModel.as
+END

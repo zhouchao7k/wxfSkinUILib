@@ -1,0 +1,18 @@
+# Properties file for build.xml
+project.name=WXF-SKINUI-LIB
+project.title=WXF-SKINUI-LIB
+
+# Version number for current releases
+ver.num=v0.24
+project.name.versioned=${project.name}-${ver.num}
+
+# Build locations
+src.dir=${basedir}/src
+package.dir=org/oswxf/skinui
+libs.dir=${basedir}/libs
+output.dir=${basedir}/bin
+docs.dir=${basedir}/docs
+report.dir=${basedir}/report
+output.swc=${output.dir}/${project.name.versioned}.swc
+
+dist.dir=${basedir}/dist

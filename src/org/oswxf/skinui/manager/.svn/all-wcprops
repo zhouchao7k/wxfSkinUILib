@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wxfreload/!svn/ver/207/trunk/wxfSkinUILib/src/org/oswxf/skinui/manager
+END
+SkinUIManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/wxfreload/!svn/ver/192/trunk/wxfSkinUILib/src/org/oswxf/skinui/manager/SkinUIManager.as
+END
+CodeGenerateManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/wxfreload/!svn/ver/207/trunk/wxfSkinUILib/src/org/oswxf/skinui/manager/CodeGenerateManager.as
+END
+ViewBlockInstantiationManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/wxfreload/!svn/ver/184/trunk/wxfSkinUILib/src/org/oswxf/skinui/manager/ViewBlockInstantiationManager.as
+END
+StyleManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/wxfreload/!svn/ver/177/trunk/wxfSkinUILib/src/org/oswxf/skinui/manager/StyleManager.as
+END
+AsyncRecycleFactory.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/wxfreload/!svn/ver/192/trunk/wxfSkinUILib/src/org/oswxf/skinui/manager/AsyncRecycleFactory.as
+END
